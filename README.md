@@ -6,23 +6,24 @@ Freetronics email: <info@freetronics.com>
 
 Module to regulate power supplied on Power-over-Ethernet connection
 down to a maximum of 12Vdc for supply to the on-board voltage regulator
-in an Arduino Duemilanove, TwentyTen, or other compatible board using
-the Freetronics Ethernet Shield.
+in an Arduino Duemilanove, Freetronics TwentyTen, or other compatible
+board using the Freetronics Ethernet Shield.
 
 Features:
 
  * Adds Power-over-Ethernet "PD" (powered device) support to the
    Freetronics Ethernet shield.
- * Input voltage range 7-35Vdc.
+ * Input voltage range 14-35Vdc.
  * Output voltage limited to 12V and fed to Arduino on-board voltage
    regulator via Ethernet shield for further regulation down to 5V.
+ * Input protection diode to prevent damage due to reverse polarity.
  * Plugs directly onto Freetronics Ethernet Shield.
  * "Power on" LED.
 
 
-More information is available on our product page at:
+More information is available at:
 
-  http://www.freetronics.com/products/poe-module-35V
+  http://www.freetronics.com/poe-module-35v
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
