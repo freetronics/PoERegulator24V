@@ -1,5 +1,5 @@
-Freetronics Power-over-Ethernet 35V Module
-==========================================
+Freetronics Power-over-Ethernet 35V Regulator
+=============================================
 Copyright 2010 Freetronics Pty Ltd  
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
@@ -23,7 +23,7 @@ Features:
 
 More information is available at:
 
-  http://www.freetronics.com/poe-module-35v
+  http://www.freetronics.com/poe-regulator-35v
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
@@ -35,7 +35,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> PoEModule35V.
+navigate to Projects -> eagle -> PoERegulator35V.
 
 
 DISTRIBUTION
